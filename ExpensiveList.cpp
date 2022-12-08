@@ -11,7 +11,7 @@ int main() {
 	    int sa = pow(2,b);
 	    for(int i = 0;i<a;i++)
 	    {
-	        sa  = sa/2;
+	        sa  = sa/2;     // resulting 
 	    }
 	    cout << sa << endl;
 	}
