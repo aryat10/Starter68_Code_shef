@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
 	int t;
-	cin >>t;
-	while(t--)
+	cin >>t;    // for the number of test cases 
+	while(t--)  
 	{
 	    int a,c;
 	    cin >> a >> c;
